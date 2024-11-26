@@ -7,6 +7,11 @@
 # IMPORTANT
 - I was not able to include project files for this since every asset was so large that I could not get it to upload to git successfully. I have instead included a bunch of screenshots from the engine and a description of everything I did.
 
+## Assets used in the store so you could try this
+- Quixel bridge - any of the Nanite rocks/cliffs will work
+- Stylized Forest (fab.com)
+- MW LandScape Auto Material (fab.com)
+
 ## Process
 - I started with UE 5.4.4 and created an empty world project that already has a sky and landscape.
 - I then went to UE fab and downloaded some sample assets to add to the project from quixel that can help me build a landscape.
